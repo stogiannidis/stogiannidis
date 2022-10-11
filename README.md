@@ -3,8 +3,9 @@
 
 - 👨‍💻 Machine Learning Research Engineer @ Helvia
 - 🎓 MSc Student in Computer Science @ AUEB
-- 👀 I’m interested in ML/NLP/Computer Vision/Autonomous Cars and Software Engineering
-- 📫 How to reach me: stogiannidis@helvia.io stoyianel@gmail.com, [LinkedIn](https://www.linkedin.com/in/ilias-stogiannidis-6b3958176/), [Twitter](https://twitter.com/stoyvn_)
+- 👀 Current research interest is about NLP. I am also curious about Computer Vision and ML Operations!
+- 📫 Contact me via email: stogiannidis@helvia.io stoyianel@aueb.gr
+- 📱 Reach me through social media [LinkedIn](https://www.linkedin.com/in/ilias-stogiannidis-6b3958176/), [Twitter](https://twitter.com/stoyvn_)
 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=stoyian)
 
