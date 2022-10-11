@@ -5,7 +5,7 @@
 - 🎓 MSc Student in Computer Science @ AUEB
 - 👀 Current research interest is about NLP. I am also curious about Computer Vision and ML Operations!
 - 📫 Contact me via email: stogiannidis@helvia.io stoyianel@aueb.gr
-- 📱 Reach me through social media [LinkedIn](https://www.linkedin.com/in/ilias-stogiannidis-6b3958176/), [Twitter](https://twitter.com/stoyvn_)
+- 📱 Reach me through social media [LinkedIn](https://www.linkedin.com/in/stogiannidis/), [Twitter](https://twitter.com/stoyvn_)
 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=stoyian)
 
