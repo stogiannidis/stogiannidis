@@ -1,9 +1,9 @@
-### Hi there. I'm Ilias👋
+### Hi there. I'm Elias👋
 
 
-- 👨‍💻 Machine Learning Research Engineer @ Helvia
+- 👨‍💻 Machine Learning Research Engineer @ [Helvia.ai](https://helvia.ai/)
 - 🎓 MSc Student in Computer Science @ AUEB
-- 👀 Current research interest is about NLP. I am also curious about Computer Vision, Robotics, and ML Operations!
+- 👀 Current research interest is NLP, especially the cost-efficient usage of LLMs. I am also curious about Reinforcement Learning, Computer Vision, and ML Operations!
 - 📫 Contact me via email: stogiannidis@helvia.io stoyianel@aueb.gr
 - 📱 Reach me through social media [LinkedIn](https://www.linkedin.com/in/stogiannidis/), [Twitter](https://twitter.com/stoyvn_)
 
