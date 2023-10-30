@@ -9,7 +9,7 @@
 
 | | |
 | --- | --- |
-| [![My Github Stats](https://github-readme-stats.vercel.app/api?username=stoyian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentagee&theme=algolia)](https://github.com/stoyian) | [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stoyian&theme=algolia)](https://github.com/stoyian) |
+| [![My Github Stats](https://github-readme-stats.vercel.app/api?username=stoyian&show=reviews,prs_merged,&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/stoyian) | [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stoyian&theme=algolia)](https://github.com/stoyian) |
 | [![Github Stars](https://github-readme-stats.vercel.app/api?username=stoyian&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)](https://github.com/stoyian) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stoyian&langs_count=8&theme=algolia)](https://github.com/stoyian) |
 
 	
