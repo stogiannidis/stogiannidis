@@ -2,22 +2,38 @@
 
 
 - 👨‍💻 Machine Learning Research Engineer @ [Helvia.ai](https://helvia.ai/)
-- 🎓 MSc Student in Computer Science @ [AUEB](https://www.aueb.gr/)
-- 👀 Current research interest is NLP, especially the cost-efficient usage of LLMs. I am also curious about Reinforcement Learning, Computer Vision, and ML Operations!
+- 🎓 I’m currently looking for PhD oppurtunities
+- 👀 My research interests lie in the domain of Machine/Deep Learning. Specifically, I am interested in **NLP**, **Computer Vision**, and **Reinforcement Learning**. I am also interested in more applied domains such as: **Robot Learning**, **Human - Robot Interaction**, and **Virtual Assistants** 
 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=stoyian)
 
-| | |
-| --- | --- |
-| [![My Github Stats](https://github-readme-stats.vercel.app/api?username=stoyian&show=reviews,prs_merged,&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/stoyian) | [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stoyian&theme=algolia)](https://github.com/stoyian) |
-| [![Github Stars](https://github-readme-stats.vercel.app/api?username=stoyian&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)](https://github.com/stoyian) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stoyian&langs_count=8&theme=algolia)](https://github.com/stoyian) |
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
+<div align="center">
+
+<a href="https://github.com/gody10/">
+  <img src="https://github-readme-stats.vercel.app/api?username=stogiannidis&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stogiannidis&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+
+</a>
+</div>
 	
 
 ## 🤝 Connect with me
+
 <p align="center">
-	<a href="mailto:stogiannidis@helvia.io"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/stogiannidis/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/stoyian"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://twitter.com/stogianel"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/stogianel"></a>
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/stogiannidis/">
+			   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/stoyian">
+		      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/stogiannidis_/">
+			   <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://x.com/istogiannidis">
+			   <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 10px;" target="_blank" href="mailto:stoyianel@gmail.com">
+			   <img src="https://img.icons8.com/doodle/1x/new-post.png"></a>
+
+</div>
 </p>
