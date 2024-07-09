@@ -1,9 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=2500&random=false&width=435&lines=Hi!+My+name+is+Ilias;I+am+a+Machine+Learning+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Wittgenstein&size=43&duration=4300&pause=900&color=7A1FF7&center=true&vCenter=true&multiline=true&random=false&width=950&height=120&lines=Hi!+my+name+is+Ilias+(pronounced+%22ee-LY-us%22);I'm+a+PhD+Student+%40+The+University+of+Edinburgh)](https://git.io/typing-svg)
 
-
-- 👨‍💻 Machine Learning Research Engineer @ [Helvia.ai](https://helvia.ai/)
-- 🎓 I’m currently looking for PhD oppurtunities
-- 👀 My research interests lie in the domain of Machine/Deep Learning. Specifically, I am interested in **NLP**, **Computer Vision**, and **Reinforcement Learning**. I am also interested in more applied domains such as: **Robot Learning**, **Human - Robot Interaction**, and **Virtual Assistants** 
+- 🎓 PhD Student @ The University of Edinburgh with focus on Foundational Vision Models
+- 👀 My research interests delve deep into the domain of Machine/Deep Learning. Specifically, I am also interested in **Multimodality**, **NLP**, and **Reinforcement Learning**. I am also interested in more applied domains such as: **Robot Learning**, **Human - Robot Interaction**, and **Virtual Assistants** 
 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=stoyian)
 
@@ -13,8 +11,8 @@
 <div align="center">
 
 <a href="https://github.com/gody10/">
-  <img src="https://github-readme-stats.vercel.app/api?username=stogiannidis&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stogiannidis&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=stogiannidis&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stogiannidis&show_icons=true&locale=en&layout=compact&line_height=20&theme=midnight-purple" width="375"  alt="0xabdulkhalid"/>
 
 </a>
 </div>
