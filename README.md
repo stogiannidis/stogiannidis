@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Wittgenstein&size=43&duration=4300&pause=900&color=7A1FF7&center=true&vCenter=true&multiline=true&random=false&width=950&height=120&lines=Hi!+my+name+is+Ilias+(pronounced+%22ee-LY-us%22);I'm+a+PhD+Student+%40+The+University+of+Edinburgh)](https://git.io/typing-svg)
 
 - 🎓 PhD Student @ The University of Edinburgh with focus on Foundational Vision Models
-- 👀 My research interests delve deep into the domain of Machine/Deep Learning. Specifically, I am also interested in **Multimodality**, **NLP**, and **Reinforcement Learning**. I am also interested in more applied domains such as: **Robot Learning**, **Human - Robot Interaction**, and **Virtual Assistants** 
+- 👀 My research interests lies in Spatial Reasoning of Foundation Models. I'm also interensted in multimodality, and robotics 
 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=stoyian)
 
